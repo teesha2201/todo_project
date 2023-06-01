@@ -186,8 +186,9 @@ body
   .prev_pg_btn {
     font-size: 24px;
     color: black;
-    padding-left:52%;
+    padding-left:30%;
     margin-left: 5%;
+    box-sizing:border-box;  
   }
 
 .p1, .p2, .p3 ,.p4, .p5{
